@@ -22,9 +22,11 @@ header{
     background-color: #2c3e50;
     height: 100px;
 }
-.left, .right{
-    width: 300px;
-    height: 50px;
+.navbar{
+    background-color: #2c3e50;
+}
+.navbar-toggler-icon{
+    filter: invert(1);
 }
 .start, .about{
     background-color: #1abc9c;
